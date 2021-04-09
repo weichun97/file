@@ -1,7 +1,10 @@
 server:
   port: 8081
 upload:
+  appId: 2715490950
+  appSecret: 53f442b781c74586902b19e061650aac
   uploadPath: D:/FGOC/upload/
   prefixUrl: http://10.1.1.90:81/static/
   max-file-size: 100
   allow-suffix: png,jpg,jpeg,amr,mp3,wma,avi,mp4
+  maxMinute: 30
