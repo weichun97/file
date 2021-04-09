@@ -1,0 +1,7 @@
+server:
+  port: 8081
+upload:
+  uploadPath: D:/FGOC/upload/
+  prefixUrl: http://10.1.1.90:81/static/
+  max-file-size: 100
+  allow-suffix: png,jpg,jpeg,amr,mp3,wma,avi,mp4
