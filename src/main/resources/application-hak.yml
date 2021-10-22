@@ -1,5 +1,5 @@
 server:
-  port: 8081
+  port: 8094
 upload:
   appId: 2715490950
   appSecret: 53f442b781c74586902b19e061650aac
