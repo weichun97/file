@@ -1,7 +1,7 @@
 server:
-  port: 8099
+  port: 8081
 upload:
-  uploadPath: D:/ftp/
+  uploadPath: /usr/local/server/file/upload/
   prefixUrl: /static/
   max-file-size: 100
   allow-suffix: png,jpg,jpeg,amr,mp3,wma,avi,mp4
